@@ -27,7 +27,7 @@ The production site is generated in `dist/`.
 
 ## Before publishing — important replacements
 
-Search the project for `YOUR-DOMAIN.example` and replace it with your real HTTPS domain in:
+The deployed site uses `https://sheruvai.vercel.app/`. If the domain changes, update it in:
 
 - `index.html` (canonical URL, Open Graph URL and image)
 - `src/App.jsx` (Person structured data URL)
@@ -54,7 +54,7 @@ You can also deploy the `dist/` folder to Netlify. Set build command to `npm run
 ## Google Search setup
 
 1. Verify your domain in Google Search Console.
-2. Submit `https://YOUR-REAL-DOMAIN/sitemap.xml`.
+2. Submit `https://sheruvai.vercel.app/sitemap.xml`.
 3. Inspect the homepage URL and request indexing.
 4. Test the Person structured data with Google's Rich Results Test and Schema.org Validator.
 5. Keep the site accurate and publish genuinely useful, original updates.

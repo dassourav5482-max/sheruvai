@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { ArrowDown, ArrowUpRight, BookOpen, Compass, Instagram, Mail, Menu, Search, Users, X } from 'lucide-react'
 
-const SITE_URL = 'https://YOUR-DOMAIN.com'
+const SITE_URL = 'https://sheruvai.vercel.app'
 const instagramUrl = 'https://www.instagram.com/sourav.das.debug/'
 const githubUrl = 'https://github.com/Sourav5482'
 

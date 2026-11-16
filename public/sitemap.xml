@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://YOUR-DOMAIN.com/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://YOUR-DOMAIN.com/about/sourav-das/</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/education/</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/social/</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/sheru-vai/</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/sheru-vai/origin-and-history/</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/sheru-vai/meaning/</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/sheru-vai/spelling-variations/</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/sheru-vai/trend/</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/sheru-vai/online-presence/</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/sheru-vai/faq/</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/articles/</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/articles/sheru-vai-documentation/</loc></url>
-  <url><loc>https://YOUR-DOMAIN.com/articles/sourav-das-sheru-vai-journey/</loc></url>
+  <url><loc>https://sheruvai.vercel.app/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://sheruvai.vercel.app/about/sourav-das/</loc></url>
+  <url><loc>https://sheruvai.vercel.app/education/</loc></url>
+  <url><loc>https://sheruvai.vercel.app/social/</loc></url>
+  <url><loc>https://sheruvai.vercel.app/sheru-vai/</loc></url>
+  <url><loc>https://sheruvai.vercel.app/sheru-vai/origin-and-history/</loc></url>
+  <url><loc>https://sheruvai.vercel.app/sheru-vai/meaning/</loc></url>
+  <url><loc>https://sheruvai.vercel.app/sheru-vai/spelling-variations/</loc></url>
+  <url><loc>https://sheruvai.vercel.app/sheru-vai/trend/</loc></url>
+  <url><loc>https://sheruvai.vercel.app/sheru-vai/online-presence/</loc></url>
+  <url><loc>https://sheruvai.vercel.app/sheru-vai/faq/</loc></url>
+  <url><loc>https://sheruvai.vercel.app/articles/</loc></url>
+  <url><loc>https://sheruvai.vercel.app/articles/sheru-vai-documentation/</loc></url>
+  <url><loc>https://sheruvai.vercel.app/articles/sourav-das-sheru-vai-journey/</loc></url>
 </urlset>
